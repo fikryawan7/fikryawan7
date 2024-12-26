@@ -34,10 +34,10 @@ I am Fikryawan Nugraha, a **Informatics Engineering** student at Universitas Pas
 ![Badge](https://img.shields.io/badge/Adobe_Photoshop-Intermediate-blue?style=for-the-badge&logo=adobephotoshop)
 ![Badge](https://img.shields.io/badge/Adobe_Illustrator-Intermediate-red?style=for-the-badge&logo=adobeillustrator)
 ![Badge](https://img.shields.io/badge/Adobe_Animate-Intermediate-purple?style=for-the-badge&logo=adobeanimate)
-![Badge](https://img.shields.io/badge/Blade-Intermediate-yellowgreen?style=for-the-badge&logo=laravel)
+![Badge](https://img.shields.io/badge/Blade-Beginner-yellowgreen?style=for-the-badge&logo=laravel)
 ![Badge](https://img.shields.io/badge/Java-Beginner-orange?style=for-the-badge&logo=java)
 ![Badge](https://img.shields.io/badge/Tailwind_CSS-Beginner-lightblue?style=for-the-badge&logo=tailwindcss)
-![Badge](https://img.shields.io/badge/CapCut-Beginner-lightgreen?style=for-the-badge&logo=capcut)
+![Badge](https://img.shields.io/badge/CapCut-Expert-lightgreen?style=for-the-badge&logo=capcut)
 
 ---
 
