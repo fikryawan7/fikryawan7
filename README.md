@@ -40,12 +40,6 @@ I am Fikryawan Nugraha, a **Informatics Engineering** student at Universitas Pas
 
 ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=fikryawan7&theme=radical&no-frame=true&column=4)
 
----
-
-## Dynamic Visuals:
-
-### Coding Hours Heatmap:
-[![GitHub Heatmap](https://github-readme-activity-graph.vercel.app/graph?username=fikryawan7&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -62,7 +56,7 @@ I am Fikryawan Nugraha, a **Informatics Engineering** student at Universitas Pas
 
 ## Spotify Playing:
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/Felix Arc)
+[![Spotify](https://open.spotify.com/track/2GO1pRF96wqjB5TKXLQ0vY?si=e25a91735c394207)](https://open.spotify.com/user/Felix Arc)
 
 ---
 
