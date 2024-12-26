@@ -58,8 +58,10 @@ I am Fikryawan Nugraha, a **Informatics Engineering** student at Universitas Pas
 
 ### Profile Views Animation:
 
-![Profile Views](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)  
-**Profile Views Count:** ![Visitor Count](https://count.getloli.com/get/@fikryawan7?theme=rule34)
+### Profile Views Animation:
+
+![Visitor Count](https://count.getloli.com/get/@fikryawan7?theme=moebooru)  
+![Anime Girl](https://media.giphy.com/media/2gtoSIzdrSMFO/giphy.gif)
 
 ---
 
