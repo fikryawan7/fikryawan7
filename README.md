@@ -56,7 +56,7 @@ I am Fikryawan Nugraha, a **Informatics Engineering** student at Universitas Pas
 
 ## Spotify Playing:
 
-[![Spotify](https://open.spotify.com/track/2GO1pRF96wqjB5TKXLQ0vY?si=e25a91735c394207)](https://open.spotify.com/user/Felix Arc)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/track/2GO1pRF96wqjB5TKXLQ0vY?si=e25a91735c394207)
 
 ---
 
