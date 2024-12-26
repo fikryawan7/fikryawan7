@@ -37,6 +37,12 @@ I am Fikryawan Nugraha, a **Informatics Engineering** student at Universitas Pas
 
 ---
 
+### favorite waifu in anime:
+
+<img src="https://raw.githubusercontent.com/fikryawan7/fikryawan7/main/assets/1305093.png" width="400" alt="Anime Profile Views" />
+
+---
+
 ## Streak Stats:
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=fikryawan7&theme=radical)
@@ -53,12 +59,6 @@ I am Fikryawan Nugraha, a **Informatics Engineering** student at Universitas Pas
 
 > _"Nakhoda yang tangguh tidak lahir dari lautan yang tenang."_  
 > **- Mr Felix-**
-
----
-
-### favorite waifu in anime:
-
-<img src="https://raw.githubusercontent.com/fikryawan7/fikryawan7/main/assets/1305093.png" width="400" alt="Anime Profile Views" />
 
 
 ---
