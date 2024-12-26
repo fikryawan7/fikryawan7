@@ -60,11 +60,6 @@ I am Fikryawan Nugraha, a **Informatics Engineering** student at Universitas Pas
 
 ![Visitor Count](https://count.getloli.com/get/@fikryawan7?theme=moebooru)  
 
-
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;You+are+visitor+number...;Thank+you+for+stopping+by!+😊)
-
-
 ---
 
 ## Spotify Playing Now:
