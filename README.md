@@ -53,6 +53,18 @@ I am Fikryawan Nugraha, a **Informatics Engineering** student at Universitas Pas
 
 ---
 
+##  Best Quotes :
+
+> _"Nakhoda yang tangguh tidak lahir dari lautan yang tenang."_  
+> **- Mr Felix-**
+
+---
+
+## Spotify Playing Now:
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/track/2GO1pRF96wqjB5TKXLQ0vY?si=e25a91735c394207)
+
+
 ## Streak Stats:
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=fikryawan7&theme=radical)
@@ -62,17 +74,3 @@ I am Fikryawan Nugraha, a **Informatics Engineering** student at Universitas Pas
 ## Contribution Graph:
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fikryawan7&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-##  Best Quotes :
-
-> _"Nakhoda yang tangguh tidak lahir dari lautan yang tenang."_  
-> **- Mr Felix-**
-
-
----
-
-## Spotify Playing Now:
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/track/2GO1pRF96wqjB5TKXLQ0vY?si=e25a91735c394207)
