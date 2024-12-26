@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**fikryawan7/fikryawan7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Fikryawan Nugraha , a **Informatics Engineering** student at Universitas Pasundan. I am passionate about exploring and building solutions in the technology field🚀💻.
+- 🔭 I’m currently working on: **[Your Current Project]**
+- 🌱 I’m learning: Advanced **System Design** and **Full-Stack Development**
+- 💬 Ask me about: **Programming in Java, PHP, or Web Technologies**
+- ⚡ Fun fact: I enjoy **[Your Hobby/Interest]** during my free time!
+- 📫 Reach me: **[Your Email]** or find me on GitHub: **[Your GitHub Username]**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fikryawan7&show_icons=true&theme=radical)
+
+---
