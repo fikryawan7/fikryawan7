@@ -22,6 +22,14 @@ I am Fikryawan Nugraha, a **Informatics Engineering** student at Universitas Pas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikryawan7&layout=compact&langs_count=6&theme=dark)
 
+--- 
+
+## Badges:
+
+![Badge](https://img.shields.io/badge/HTML-Expert-green?style=for-the-badge&logo=html5)
+![Badge](https://img.shields.io/badge/CSS-Intermediate-blue?style=for-the-badge&logo=css3)
+![Badge](https://img.shields.io/badge/JavaScript-Beginner-yellow?style=for-the-badge&logo=javascript)
+
 ---
 
 ## Streak Stats:
@@ -57,12 +65,3 @@ I am Fikryawan Nugraha, a **Informatics Engineering** student at Universitas Pas
 ## Spotify Playing:
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/track/2GO1pRF96wqjB5TKXLQ0vY?si=e25a91735c394207)
-
----
-
-## Badges:
-
-![Badge](https://img.shields.io/badge/HTML-Expert-green?style=for-the-badge&logo=html5)
-![Badge](https://img.shields.io/badge/CSS-Intermediate-blue?style=for-the-badge&logo=css3)
-![Badge](https://img.shields.io/badge/JavaScript-Beginner-yellow?style=for-the-badge&logo=javascript)
-
