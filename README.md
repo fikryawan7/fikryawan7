@@ -56,12 +56,9 @@ I am Fikryawan Nugraha, a **Informatics Engineering** student at Universitas Pas
 
 ---
 
-### Profile Views Animation:
+### favorite waifu in anime:
 
 <img src="https://raw.githubusercontent.com/fikryawan7/fikryawan7/main/assets/anime-profile.png" width="400" alt="Anime Profile Views" />
-
-**Profile Views Count:**  
-![Visitor Count](https://count.getloli.com/get/@fikryawan7?theme=moebooru)
 
 
 ---
