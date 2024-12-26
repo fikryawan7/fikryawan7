@@ -39,12 +39,6 @@ I am Fikryawan Nugraha, a **Informatics Engineering** student at Universitas Pas
 
 ---
 
-## Repo Overview:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fikryawan7&repo=REPO_NAME&theme=radical)](https://github.com/fikryawan7/REPO_NAME)
-
----
-
 ## Dynamic Dev Quote:
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
