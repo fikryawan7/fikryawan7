@@ -1,3 +1,6 @@
+### Animated Profile Banner:
+![Animated Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=0E82F7&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile!+👋;I+am+a+tech+enthusiast+%F0%9F%9A%80;Building+solutions+in+HTML%2C+CSS%2C+PHP!+💻)
+
 # Hi there 👋
 
 I am Fikryawan Nugraha, a **Informatics Engineering** student at Universitas Pasundan. I am passionate about exploring and building solutions in the technology field 🚀💻.
@@ -43,17 +46,6 @@ I am Fikryawan Nugraha, a **Informatics Engineering** student at Universitas Pas
 
 ### Coding Hours Heatmap:
 [![GitHub Heatmap](https://github-readme-activity-graph.vercel.app/graph?username=fikryawan7&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### Animated Profile Banner:
-![Animated Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=0E82F7&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile!+👋;I+am+a+tech+enthusiast+%F0%9F%9A%80;Building+solutions+in+HTML%2C+CSS%2C+PHP!+💻)
-
----
-
-### Contributions Calendar:
-![Contributions](https://github.com/fikryawan7/fikryawan7/blob/main/calendar-contributions.svg)
-
 
 ---
 
