@@ -28,6 +28,13 @@ I am Fikryawan Nugraha, a **Informatics Engineering** student at Universitas Pas
 ![Badge](https://img.shields.io/badge/HTML-Expert-green?style=for-the-badge&logo=html5)
 ![Badge](https://img.shields.io/badge/CSS-Intermediate-blue?style=for-the-badge&logo=css3)
 ![Badge](https://img.shields.io/badge/JavaScript-Beginner-yellow?style=for-the-badge&logo=javascript)
+![Badge](https://img.shields.io/badge/PHP-Intermediate-blue?style=for-the-badge&logo=php)
+![Badge](https://img.shields.io/badge/Figma-Intermediate-orange?style=for-the-badge&logo=figma)
+![Badge](https://img.shields.io/badge/Canva-Intermediate-pink?style=for-the-badge&logo=canva)
+![Badge](https://img.shields.io/badge/Adobe_Photoshop-Intermediate-blue?style=for-the-badge&logo=adobephotoshop)
+![Badge](https://img.shields.io/badge/Adobe_Illustrator-Intermediate-red?style=for-the-badge&logo=adobeillustrator)
+![Badge](https://img.shields.io/badge/Adobe_Animate-Intermediate-purple?style=for-the-badge&logo=adobeanimate)
+
 
 ---
 
