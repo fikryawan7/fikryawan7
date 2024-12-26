@@ -51,12 +51,6 @@ I am Fikryawan Nugraha, a **Informatics Engineering** student at Universitas Pas
 
 ---
 
-## Wakatime Stats (Coding Activity):
-
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=fikryawan7&theme=radical)
-
----
-
 ## Visitors Count:
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fikryawan7.fikryawan7)
