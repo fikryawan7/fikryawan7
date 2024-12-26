@@ -58,7 +58,7 @@ I am Fikryawan Nugraha, a **Informatics Engineering** student at Universitas Pas
 
 ### favorite waifu in anime:
 
-<img src="https://raw.githubusercontent.com/fikryawan7/fikryawan7/main/assets/anime-profile.png" width="400" alt="Anime Profile Views" />
+<img src="https://raw.githubusercontent.com/fikryawan7/fikryawan7/main/assets/1305093.png" width="400" alt="Anime Profile Views" />
 
 
 ---
