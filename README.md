@@ -60,12 +60,6 @@ I am Fikryawan Nugraha, a **Informatics Engineering** student at Universitas Pas
 
 ---
 
-## Visitors Count:
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fikryawan7.fikryawan7)
-
----
-
 ## Spotify Playing:
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/Felix Arc)
