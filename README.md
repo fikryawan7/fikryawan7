@@ -31,6 +31,12 @@ I am Fikryawan Nugraha, a **Informatics Engineering** student at Universitas Pas
 
 ---
 
+## Achievements:
+
+![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=fikryawan7&theme=radical&no-frame=true&column=4)
+
+---
+
 ## Streak Stats:
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=fikryawan7&theme=radical)
@@ -43,10 +49,10 @@ I am Fikryawan Nugraha, a **Informatics Engineering** student at Universitas Pas
 
 ---
 
-## Achievements:
+##  Best Quotes :
 
-![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=fikryawan7&theme=radical&no-frame=true&column=4)
-
+> _"Nakhoda yang tangguh tidak lahir dari laut yang tenang."_  
+> **- Mr Felix_**
 
 ---
 
@@ -55,13 +61,6 @@ I am Fikryawan Nugraha, a **Informatics Engineering** student at Universitas Pas
 
 ---
 
-##  Best Quotes :
-
-> _"Nakhoda yang tangguh tidak lahir dari laut yang tenang."_  
-> **- Mr Felix_**
-
----
-
-## Spotify Playing:
+## Spotify Playing Now:
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/track/2GO1pRF96wqjB5TKXLQ0vY?si=e25a91735c394207)
