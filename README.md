@@ -51,8 +51,8 @@ I am Fikryawan Nugraha, a **Informatics Engineering** student at Universitas Pas
 
 ##  Best Quotes :
 
-> _"Nakhoda yang tangguh tidak lahir dari laut yang tenang."_  
-> **- Mr Felix_**
+> _"Nakhoda yang tangguh tidak lahir dari lautan yang tenang."_  
+> **- Mr Felix-**
 
 ---
 
