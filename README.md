@@ -10,6 +10,13 @@ I am Fikryawan Nugraha, a **Informatics Engineering** student at Universitas Pas
 
 ---
 
+##  Best Quotes :
+
+> _"Nakhoda yang tangguh tidak lahir dari lautan yang tenang."_  
+> **- Mr Felix-**
+
+---
+
 ## GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fikryawan7&show_icons=true&theme=radical)
@@ -49,13 +56,6 @@ I am Fikryawan Nugraha, a **Informatics Engineering** student at Universitas Pas
 ### favorite waifu in anime:
 
 <img src="https://raw.githubusercontent.com/fikryawan7/fikryawan7/main/assets/1305093.png" width="400" alt="Anime Profile Views" />
-
----
-
-##  Best Quotes :
-
-> _"Nakhoda yang tangguh tidak lahir dari lautan yang tenang."_  
-> **- Mr Felix-**
 
 ---
 
