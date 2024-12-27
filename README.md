@@ -38,7 +38,7 @@ I am Fikryawan Nugraha, a **Informatics Engineering** student at Universitas Pas
 ![Badge](https://img.shields.io/badge/Figma-Intermediate-orange?style=for-the-badge&logo=figma)
 ![Badge](https://img.shields.io/badge/Canva-Expert-pink?style=for-the-badge&logo=canva)
 ![Badge](https://img.shields.io/badge/Adobe_Photoshop-Intermediate-blue?style=for-the-badge&logo=adobephotoshop)
-![Badge](https://img.shields.io/badge/Adobe_Illustrator-Intermediate-red?style=for-the-badge&logo=adobeillustrator)
+![Badge](https://img.shields.io/badge/Adobe_Illustrator-Beginner-red?style=for-the-badge&logo=adobeillustrator)
 ![Badge](https://img.shields.io/badge/Adobe_Animate-Intermediate-purple?style=for-the-badge&logo=adobeanimate)
 ![Badge](https://img.shields.io/badge/Blade-Beginner-yellowgreen?style=for-the-badge&logo=laravel)
 ![Badge](https://img.shields.io/badge/Java-Intermediate-orange?style=for-the-badge&logo=java)
@@ -53,7 +53,7 @@ I am Fikryawan Nugraha, a **Informatics Engineering** student at Universitas Pas
 
 ---
 
-### favorite waifu in anime:
+### Favorite Waifu In Anime:
 
 <img src="https://raw.githubusercontent.com/fikryawan7/fikryawan7/main/assets/1305093.png" width="400" alt="Anime Profile Views" />
 
