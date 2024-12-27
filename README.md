@@ -53,9 +53,13 @@ I am Fikryawan Nugraha, a **Informatics Engineering** student at Universitas Pas
 
 ---
 
-### Favorite Waifu In Anime:
+# Favorite Waifu In Anime
 
-<img src="https://raw.githubusercontent.com/fikryawan7/fikryawan7/main/assets/1305093.png" width="400" alt="Anime Profile Views" />
+![Anime Profile Views](https://raw.githubusercontent.com/fikryawan7/fikryawan7/main/assets/1305093.png)
+
+### Marin Kitagawa
+![Typing Effect](path/to/typing_effect.gif)
+
 
 ---
 
