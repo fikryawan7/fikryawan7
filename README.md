@@ -29,12 +29,12 @@ I am Fikryawan Nugraha, a **Informatics Engineering** student at Universitas Pas
 ![Badge](https://img.shields.io/badge/JavaScript-Beginner-yellow?style=for-the-badge&logo=javascript)
 ![Badge](https://img.shields.io/badge/PHP-Intermediate-blue?style=for-the-badge&logo=php)
 ![Badge](https://img.shields.io/badge/Figma-Intermediate-orange?style=for-the-badge&logo=figma)
-![Badge](https://img.shields.io/badge/Canva-Intermediate-pink?style=for-the-badge&logo=canva)
+![Badge](https://img.shields.io/badge/Canva-Expert-pink?style=for-the-badge&logo=canva)
 ![Badge](https://img.shields.io/badge/Adobe_Photoshop-Intermediate-blue?style=for-the-badge&logo=adobephotoshop)
 ![Badge](https://img.shields.io/badge/Adobe_Illustrator-Intermediate-red?style=for-the-badge&logo=adobeillustrator)
 ![Badge](https://img.shields.io/badge/Adobe_Animate-Intermediate-purple?style=for-the-badge&logo=adobeanimate)
 ![Badge](https://img.shields.io/badge/Blade-Beginner-yellowgreen?style=for-the-badge&logo=laravel)
-![Badge](https://img.shields.io/badge/Java-Beginner-orange?style=for-the-badge&logo=java)
+![Badge](https://img.shields.io/badge/Java-Intermediate-orange?style=for-the-badge&logo=java)
 ![Badge](https://img.shields.io/badge/Tailwind_CSS-Beginner-lightblue?style=for-the-badge&logo=tailwindcss)
 ![Badge](https://img.shields.io/badge/CapCut-Expert-lightgreen?style=for-the-badge&logo=capcut)
 
@@ -63,13 +63,10 @@ I am Fikryawan Nugraha, a **Informatics Engineering** student at Universitas Pas
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/track/2GO1pRF96wqjB5TKXLQ0vY?si=e25a91735c394207)
 
+---
 
 ## Streak Stats:
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=fikryawan7&theme=radical)
 
 ---
-
-## Contribution Graph:
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fikryawan7&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
