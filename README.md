@@ -55,10 +55,12 @@ I am Fikryawan Nugraha, a **Informatics Engineering** student at Universitas Pas
 
 # Favorite Waifu In Anime
 
-<div style="position: relative; display: inline-block; text-align: center; width: 400px;">
+<div style="text-align: center;">
     ![Animated Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF007F&center=true&vCenter=true&width=600&lines=Marin+Kitagawa)
+</div>
+
+<div style="position: relative; display: inline-block; width: 400px; text-align: center;">
     <img src="https://raw.githubusercontent.com/fikryawan7/fikryawan7/main/assets/1305093.png" alt="Anime Profile Views" width="400">
-    <div style="position: absolute; top: 10px; left: 50%; transform: translateX(-50%); color: #FF007F; font-size: 22px; font-family: 'Fira Code', monospace; font-weight: bold;">
     </div>
 </div>
 
