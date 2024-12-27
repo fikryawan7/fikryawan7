@@ -55,43 +55,12 @@ I am Fikryawan Nugraha, a **Informatics Engineering** student at Universitas Pas
 
 # Favorite Waifu In Anime
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Favorite Waifu</title>
-    <style>
-        .container {
-            position: relative;
-            width: 400px;
-        }
-
-        .image {
-            display: block;
-            width: 100%;
-        }
-
-        .text {
-            position: absolute;
-            top: 10px;
-            left: 50%;
-            transform: translateX(-50%);
-            color: #FF007F;
-            font-size: 22px;
-            font-family: 'Fira Code', monospace;
-            text-align: center;
-            font-weight: bold;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <img src="https://raw.githubusercontent.com/fikryawan7/fikryawan7/main/assets/1305093.png" alt="Anime Profile Views" class="image">
-        <div class="text">Marin Kitagawa</div>
+<div style="position: relative; display: inline-block; text-align: center; width: 400px;">
+    <img src="https://raw.githubusercontent.com/fikryawan7/fikryawan7/main/assets/1305093.png" alt="Anime Profile Views" width="400">
+    <div style="position: absolute; top: 10px; left: 50%; transform: translateX(-50%); color: #FF007F; font-size: 22px; font-family: 'Fira Code', monospace; font-weight: bold;">
+        Marin Kitagawa
     </div>
-</body>
-</html>
+</div>
 
 
 ---
