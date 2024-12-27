@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hi there 🙋‍♂️
 
-![Animated Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=0E82F7&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile!+👋;I+will+explore+future+technologies.)
+![Animated Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=0E82F7&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile!+👋;I+will+explore+future+technologies+🚀🌟.)
 
 I am Fikryawan Nugraha, a **Informatics Engineering** student at Universitas Pasundan. I am passionate about exploring and building solutions in the technology field 🚀💻.
 
