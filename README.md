@@ -17,12 +17,6 @@ I am Fikryawan Nugraha, a **Informatics Engineering** student at Universitas Pas
 
 ---
 
-## GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fikryawan7&show_icons=true&theme=radical)
-
----
-
 ## My Top Languages:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fikryawan7&layout=compact&langs_count=6&theme=dark)
@@ -69,11 +63,5 @@ I am Fikryawan Nugraha, a **Informatics Engineering** student at Universitas Pas
 ## Spotify Playing Now:
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/track/2GO1pRF96wqjB5TKXLQ0vY?si=e25a91735c394207)
-
----
-
-## Streak Stats:
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=fikryawan7&theme=radical)
 
 ---
