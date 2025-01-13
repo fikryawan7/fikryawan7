@@ -6,7 +6,7 @@ I am Fikryawan Nugraha, a **Informatics Engineering** student at Universitas Pas
 
 - 🌱 I’m learning: Advanced **UI/UX design**  
 - ⚡ Fun fact: I enjoy **billiards 🎱** during my free time!  
-- 📫 Reach me: **felixlucifer7@gmail.com** or find me on GitHub: **fikryawan7**  
+- 📫 Look at my portfolio I'm ready to know you're curious https://fikryawan7.fun/
 
 ---
 
